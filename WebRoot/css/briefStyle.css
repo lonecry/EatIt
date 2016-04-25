@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding
+}
+
+.mid {
+	margin: 20px 50px;
+	width: 1300px;
+}
+
+.picture {
+	margin: 100px 0;
+	width: 350px;
+	height: 400px;
+	float: left;
+}
+.picture input{
+	margin-top: 10px;
+}
+
+.ifo {
+	margin: 100px 0;
+	padding-top: 13px;
+	margin-left: 50px;
+	width: 600px;
+	height: 400px;
+	float: left;
+}
+
+.mid img {
+	width: 350px;
+	height:209px;
+	/* margin: 0px 10px 450px 40px; */
+}
+
+.s {
+	width: 300px;
+	height: 150px;
+	padding-left: 50px;
+	font-family: "Î¢ÈíÑÅºÚ", "ÎÄÈªæäÕýºÚ";
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 1.6e;
+	text-align: center;
+	display: online-block;
+	margin: 5px 50px;
+}
+
+.s_count {
+	color: #FF7F00;
+}
+
+.c {
+	width: 800px;
+	height: 150px;
+	padding: 50px;
+	font-family: "Î¢ÈíÑÅºÚ", "ÎÄÈªæäÕýºÚ";
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1.6e;
+	text-align: center;
+	display: online-block;
+	margin: 5px 50px;
+}
+
+.b {
+	width: 150px;
+	height: 50px;
+	font-size: 23px;
+	/* font-weight:bold; */
+	background-color: orange;
+	color: white;
+	margin: 55px 90px;
+	/* border-radius:6px; */
+}
+
+.code {
+	width: 256px;
+	height: 400px;
+	margin: 100px 0;
+	float: left;
+}
+
+.code img {
+	width: 300px;
+	height: 300px;
+	margin: 0;
+}
+.discform{
+	margin-left: 98px;
+}
+.discform input{
+	margin-top:5px;
+	height: 25px;
+	border: 1px solid orange;
+}

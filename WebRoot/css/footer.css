@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding
+}
+
+#footer {
+	background: repeat-x top #ff8000;
+	width: 100%;
+	text-align: center;
+	height: 50px;
+	margin-bottom: -10px
+}
+
+#footerCenter {
+	width: 960px;
+	margin: 0 auto;
+	color: #fff;
+	line-height: 50px;
+	vertical-align: middle;
+}
+
+#footerCenter p {
+	width: 450px;
+	height: 20px;
+	margin: 5px auto;
+}
